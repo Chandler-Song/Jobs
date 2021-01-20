@@ -39,7 +39,7 @@ At the same time, we partner with   storage, algorithms, cloud teams and AI Labs
 1. It is a half research and half development work. Research to open all possibilities and  development to make the ideas tangible.
 2. Prototype your ideas. By designing and coding an elegant experiment based on our  prototype system, comparing with existing system, and verify the proposal is feasible  and efficient.
 3. Own designs, code and test. You are expected to write designs, code and test your  owned components. Code review is also part of the work.  We are running CI/CD to  help quality.
-4. Work with local and/or geo-distributed teams. You may provide domain knowledge and  insights for junior members in local and/or remote teams. You may also drive  cross-team collaborations with other teams in Tencent.
+4. Work with local and/or geo-distributed teams. You may provide domain knowledge and  insights for junior members in local and/or remote teams. You may also drive  cross-team collaborations with other teams.
 
 **We’d like you to have**
 1. Highly interested in database/data platform research and coding
