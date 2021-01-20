@@ -12,5 +12,6 @@
 
 
 **************************************************************
-> 联系微信：
-![image](https://github.com/Chandler-Song/Jobs/blob/master/QR.jfif)
+> 申请职位或了解职位详情，请联系微信：***techjobcareer*** <br/>
+> 请备注申请职位方向 eg. <算法职位> <br/>
+
