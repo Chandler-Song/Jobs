@@ -10,3 +10,7 @@
 ### Database Kernel/Engine
 1. [分布式数据库内核研发](https://github.com/Chandler-Song/Jobs/blob/master/Algorithms/JD.md)
 
+
+**************************************************************
+> 联系微信：
+![image](https://github.com/Chandler-Song/Jobs/blob/master/QR.jfif)
