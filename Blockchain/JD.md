@@ -24,7 +24,7 @@
 * 了解Linux下常见Shell操作，了解敏捷迭代开发流程；
 * 了解面向对象开发，具有一定的系统分析设计能力、性能调优方法、文档撰写能力；
 > 优先考虑：
-* 了解Hyperledger Fabric 、FISCO BCOS、趣链、蚂蚁区块链、比特币、以太坊、Libra等区块链其中之一技术原理者优先考虑；
+* 了解Hyperledger Fabric 、FISCO BCOS、趣链、比特币、以太坊、Libra等区块链其中之一技术原理者优先考虑；
 * 了解Kubernetes、Docker、Prometheus 等云原生技术者优先考虑；
 * 有参与开源项目经验者优先考虑；
 * 对区块链技术感兴趣者优先考虑。
