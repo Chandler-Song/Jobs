@@ -1,4 +1,6 @@
-
+# Database研发职位
+- [云数据库内核开发专家-MySQL](#云数据库内核开发专家-MySQL)
+- [Principal Database Kernel Engineer](# Principal Database Kernel Engineer)
 
 ## 云数据库内核开发专家-MySQL
 **地点：北京/杭州**
@@ -27,7 +29,7 @@
 
 ***********************************************
 
-## Senior/Principal Database Kernel Engineer
+## Principal Database Kernel Engineer
 **Location:Seattle**
 
 **Position overview**  
