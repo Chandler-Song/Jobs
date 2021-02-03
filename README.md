@@ -1,4 +1,4 @@
-## 职位列表
+## 技术方向&职位列表
 
 ### AI Algorithms
 1. [数据科学组长](https://github.com/Chandler-Song/Jobs/blob/master/Algorithms/JD.md)
